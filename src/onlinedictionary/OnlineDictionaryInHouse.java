@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.sql.*;
 
-public class Database {
+public class OnlineDictionaryInHouse {
     static Connection connection = null;
     static Statement statement = null;
     static ResultSet resultSet = null;
