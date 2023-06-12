@@ -1,3 +1,5 @@
+package hostnameconverter;
+
 import java.net.InetAddress;
 
 public class HostNameConverter {
